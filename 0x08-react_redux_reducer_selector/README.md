@@ -1,5 +1,6 @@
 # 0x08. React Redux reducer+selector
-# Resources
+# Resources 
+# files follow
 Learning outcomes:
 
 - The purpose of a reducer and the role it plays within your application
