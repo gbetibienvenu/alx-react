@@ -1,4 +1,4 @@
-## 0x07. React Redux action creator+normalizr
+## 0x07. React Redux action creator+normalizer
 
 # Resourses attached to this project from Alx scchool cohort8
 + [Normaliz](https://github.com/paularmstrong/normalizr)
